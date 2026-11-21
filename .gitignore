@@ -1,0 +1,24 @@
+# Sistema y editores
+.venv/
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.obsidian/
+
+# Notas personales del curso (no hacen parte del proyecto publicado)
+Tarea.md
+Retroalimentacion_Entrega1.md
+
+# Material de terceros: se cita y se enlaza en el README
+Plantilla_Poster_APES_ECI.pptx
+
+# Fuentes editables del póster y del escrito: se publican los PDF
+Serna_Julian_Poster_Entrega_Final.pptx
+Serna_Julian_Trabajo_Escrito_Entrega_Final.docx
+
+
+# Temporales de Office
+~$*
+
+# Material de estudio para NotebookLM (incluye documentos de terceros)
+notebooklm/
